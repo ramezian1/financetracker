@@ -17,7 +17,7 @@ A lightweight, client-side web application designed to help you quickly track yo
 
 ## 🚀 How to Use
 
-1.  **Open the App:** Access the live application via [Your GitHub Pages URL Here](https://yourusername.github.io/your-repository-name/).
+1.  **Open the App:** Access the live application via [My Portfolio](https://www.robertmezian.com).
     * *(Remember to replace `https://yourusername.github.io/your-repository-name/` with your actual GitHub Pages URL once deployed!)*
 2.  **Add an Expense:**
     * Enter the **Name** of the expense (e.g., "Groceries," "Bus Fare").
