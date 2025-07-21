@@ -43,12 +43,11 @@ If you want to run this project locally or contribute:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/yourusername/your-repository-name.git)
+    git clone [https://github.com/ramezian1/financetracker.git](https://github.com/ramezian1/financetracker.git)
     ```
-    *(Replace `yourusername/your-repository-name.git` with your actual repository path)*
 2.  **Navigate to the Directory:**
     ```bash
-    cd your-repository-name
+    cd financetracker
     ```
 3.  **Open `index.html`:** Simply open the `index.html` file in your preferred web browser.
 
